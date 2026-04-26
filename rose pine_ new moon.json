@@ -1,20 +1,35 @@
 {
   "name": "Rose Pine - New Moon",
-  "description": "Let's give it a shot.",
+  "description": "pastel calm",
   "authors": [
     {
       "name": "spacemermeid",
-      "id": "000000000000000000"
+      "id": "837033075069681674"
     }
   ],
   "semanticColors": {
     "ANDROID_RIPPLE": [
       "#44415a"
     ],
+    "ANDROID_NAVIGATION_SCRIM_BACKGROUND": [
+      "#2a273f"
+    ],
     "CHAT_BACKGROUND": [
       "#2a273f"
     ],
     "BACKGROUND_ACCENT": [
+      "#393552"
+    ],
+    "BACKGROUND_MOD_MUTED": [
+      "#232136"
+    ],
+    "PANEL_BG": [
+      "#232136"
+    ],
+    "BACKGROUND_SURFACE_RAISED": [
+      "#232136"
+    ],
+    "INPUT_BACKGROUND_DEFAULT": [
       "#393552"
     ],
     "BACKGROUND_FLOATING": [
@@ -78,13 +93,13 @@
       "#232136"
     ],
     "BORDER_FAINT": [
-      "#393552"
+      "#2a283e"
     ],
     "BORDER_SUBTLE": [
-      "#6e6a86"
+      "#2a283e"
     ],
     "BORDER_STRONG": [
-      "#908caa"
+      "#44415a"
     ],
     "CARD_PRIMARY_BG": [
       "#2a273f"
@@ -135,7 +150,7 @@
       "#232428"
     ],
     "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
-      "#2a273f"
+      "#393552"
     ],
     "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
       "#393552"
@@ -144,7 +159,7 @@
       "#2a283e"
     ],
     "REDESIGN_BUTTON_DANGER_BACKGROUND": [
-      "#ed4245"
+      "#F35C5E"
     ],
     "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
       "#e0def4"
@@ -159,13 +174,13 @@
       "#2a283e"
     ],
     "STATUS_DANGER": [
-      "#ed4245"
+      "#F35C5E"
     ],
     "STATUS_DANGER_BACKGROUND": [
-      "#ed4245"
+      "#F35C5E"
     ],
     "STATUS_DANGER_TEXT": [
-      "#2a273f"
+      "#e0def4"
     ],
     "POLLS_NORMAL_FILL_HOVER": [
       "#232428"
@@ -174,7 +189,7 @@
       "#232428"
     ],
     "POLLS_VICTOR_FILL": [
-      "#9ccfd8"
+      "#286983"
     ],
     "TEXT_LINK": [
       "#9ccfd8"
@@ -192,7 +207,7 @@
       "#908caa"
     ],
     "BG_MOD_FAINT": [
-      "#FFFFFF12"
+      "#232136"
     ],
     "KEYBOARD": [
       "#2a273f"
@@ -204,10 +219,10 @@
       "#3e8fb0"
     ],
     "AUTOMOD_QUEUED_FOR_REVIEW_BACKGROUND": [
-      "#ebbcba"
+      "#ea9a97"
     ],
     "AUTOMOD_QUEUED_FOR_REVIEW_BACKGROUND_HOVER": [
-      "#ebbcba"
+      "#ea9a97"
     ],
     "SCROLLBAR_AUTO_THUMB": [
       "#3a3d43"
@@ -221,12 +236,10 @@
     "SCROLLBAR_THIN_TRACK": [
       "transparent"
     ],
-
     "THREAD_CHANNEL_SPINE": [
       "#908caa"
     ]
   },
-  
   "rawColors": {
     "BLACK": "#2a273f",
     "PRIMARY_100": "#e0def4",
@@ -237,13 +250,14 @@
     "PRIMARY_400": "#ea9a97",
     "PRIMARY_460": "#393552",
     "PRIMARY_500": "#c4a7e7",
-    "PRIMARY_530": "#f09",
+    "PRIMARY_530": "#eb6f92",
     "PRIMARY_600": "#393552",
     "PRIMARY_630": "#393552",
-    "PRIMARY_645": "#3e8fb050",
+    "PRIMARY_645": "#3e8fb0",
     "PRIMARY_660": "#393552",
     "PRIMARY_700": "#393552",
     "PRIMARY_800": "#232136",
+    "PRIMARY_900": "#232136",
     "PLUM_24": "#2a273f",
     "PLUM_10": "#6e6a86",
     "PLUM_15": "#908caa",
@@ -253,7 +267,7 @@
     "PLUM_19": "#232136",
     "PLUM_20": "#232136",
     "PLUM_3": "#e0def4",
-    "PLUM_4": "#3e8fb050",
+    "PLUM_4": "#3e8fb0",
     "PLUM_6": "#c4a7e7",
     "BRAND_260": "#9ccfd8",
     "BRAND_360": "#3e8fb0",
@@ -332,27 +346,13 @@
     "YELLOW_900": "#f6c177",
     "WHITE": "#e0def4",
     "WHITE_500": "#e0def4",
-    "WHITE_630": "#908caa"
+    "WHITE_630": "#faf4ed"
   },
   "plus": {
     "version": "0",
     "customOverlays": true,
     "mentionLineColor": "#f6c177",
-    "icons": {
-      "ic_radio_circle_checked": "#3e8fb0",
-      "ic_radio_circle_checked__overlay": "#e0def4",
-      "ic_radio_square_24px": "#3e8fb0",
-      "ic_radio_square_checked_24px": "#3e8fb0",
-      "ic_radio_square_checked_24px__overlay": "#e0def4",
-      "ic_selection_checked_24px": "#3e8fb0",
-      "ic_selection_checked_24px__overlay": "#e0def4",
-      "StatusMobileOnline": "#95b1ac",
-      "StatusIdle": "#f6c177",
-      "StatusDND": "#eb6f92",
-      "StatusOffline": "#6e6a86",
-      "StatusOnline": "#95b1ac",
-      "StatusStreaming": "#c4a7e7"
-    }
+    "iconpack": "rosiecord-plumpy"
   },
   "spec": 2
 }
