@@ -1,6 +1,6 @@
 {
   "name": "Rose Pine - New Moon",
-  "description": "v4.1",
+  "description": "v2",
   "authors": [
     {
       "name": "spacemermeid",
@@ -209,19 +209,15 @@
     ],
 
       "INPUT_TEXT_DEFAULT":  [
-      "#e0def4", {
-        "rawColors": "PRIMARY_100"}
+      "#e0def4"
     ],
     
   "INPUT_TEXT_ERROR_DEFAULT": [
-        "#e0def4", {
-        "rawColors": "PRIMARY_100"}
-      
+        "#e0def4" 
     ],
     
     "CONTROL_SECONDARY_TEXT_DEFAULT":  [
-       "#e0def4",  {
-        "rawColors": "PRIMARY_100"}
+       "#e0def4"
     ],
 
     
