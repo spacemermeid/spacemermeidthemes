@@ -208,29 +208,6 @@
       "#908caa"
     ],
 
-     "INPUT_TEXT_DEFAULT":  [
-      "#e0def4",
-      {
-        "raw": "PRIMARY_100",
-        "opacity": 1
-      }
-    ],
-    
-  "INPUT_TEXT_ERROR_DEFAULT": [
-      "#e0def4",
-      {
-        "raw": "PRIMARY_100",
-        "opacity": 1
-      }
-    ],
-    
-    "CONTROL_SECONDARY_TEXT_DEFAULT":  [
-      "#e0def4",
-      {
-        "raw": "PRIMARY_100",
-        "opacity": 1
-      }
-    ],
     
     "BG_MOD_FAINT": [
       "#232136"
