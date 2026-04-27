@@ -210,18 +210,18 @@
 
      "INPUT_TEXT_DEFAULT":  [
        {
-        "raw": "PRIMARY_100"}
+        "rawColors": "PRIMARY_100"}
     ],
     
   "INPUT_TEXT_ERROR_DEFAULT": [
          {
-        "raw": "PRIMARY_100"}
+        "rawColors": "PRIMARY_100"}
       
     ],
     
     "CONTROL_SECONDARY_TEXT_DEFAULT":  [
          {
-        "raw": "PRIMARY_100"}
+        "rawColors": "PRIMARY_100"}
     ],
 
 
