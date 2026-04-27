@@ -1,6 +1,6 @@
 {
   "name": "Rose Pine - New Moon",
-  "description": "pastel calm",
+  "description": "V3",
   "authors": [
     {
       "name": "spacemermeid",
@@ -209,18 +209,22 @@
     ],
 
      "INPUT_TEXT_DEFAULT":  [
-      "#e0def4"
+       {
+        "raw": "PRIMARY_100"}
     ],
     
   "INPUT_TEXT_ERROR_DEFAULT": [
-      "#e0def4"
+         {
+        "raw": "PRIMARY_100"}
       
     ],
     
     "CONTROL_SECONDARY_TEXT_DEFAULT":  [
-      "#e0def4"
+         {
+        "raw": "PRIMARY_100"}
     ],
-    
+
+
     "BG_MOD_FAINT": [
       "#232136"
     ],
