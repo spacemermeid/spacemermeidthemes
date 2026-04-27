@@ -209,6 +209,8 @@
 
     "INPUT_TEXT_DEFAULT": ["#e0def4"],
     
+    "INTERACTIVE_TEXT_DEFAULT": ["#e0def4"],
+    
     "BG_MOD_FAINT": [
       "#232136"
     ],
