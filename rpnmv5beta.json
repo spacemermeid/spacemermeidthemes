@@ -1,6 +1,6 @@
 {
   "name"          : "Rose Pine - New Moon",
-  "description"   : "v4 - beta",
+  "description"   : "v5 - beta",
   "authors"       : [ {"name": "spacemermeid", "id": "837033075069681674"} ],
   
   "semanticColors": {
@@ -69,7 +69,8 @@
     "INTERACTIVE_TEXT_HOVER"                         : ["#44415a"    ],
    
    
- 
+    
+    
     "MOBILE_ANDROID_BUTTON_BACKGROUND_RIPPLE"   : ["#44415a"    ],
     "MOBILE_CHANNEL_ITEM_BACKGROUND_SELECTED" : ["#6e6a86"],
   
@@ -196,7 +197,7 @@
     "YELLOW_160"                         : "#f6c177",
     "YELLOW_200"                         : "#f6c177",
     "YELLOW_230"                         : "#f6c177",
-    "YELLOW_260"                         : "#f6c177",
+    "YELLOW_260"                         : "#ea9a97",
     "YELLOW_300"                         : "#f6c177",
     "YELLOW_330"                         : "#f6c177",
     "YELLOW_345"                         : "#f6c177",
@@ -224,7 +225,7 @@
   "plus"          : {
     "version"         : "0",
     "customOverlays"  : true,
-    "mentionLineColor": "#f6c177",
+    "mentionLineColor": "#ea9a97",
     "iconpack"        : "rosiecord-plumpy"
   },
   "spec"          : 2
