@@ -69,11 +69,7 @@
     "INTERACTIVE_TEXT_HOVER"                         : ["#44415a"    ],
    
    
-    
-    "MENTION_BACKGROUND"                        : ["#3e8fb0"    ],
-    "MENTION_FOREGROUND"                        : ["#ea9a97"    ],
-    "MESSAGE_MENTIONED_BACKGROUND_DEFAULT" : ["#ea9a97"],
-    "MESSAGE_MENTIONED_BACKGROUND_HOVER" : ["#ea9a97"],
+ 
     "MOBILE_ANDROID_BUTTON_BACKGROUND_RIPPLE"   : ["#44415a"    ],
     "MOBILE_CHANNEL_ITEM_BACKGROUND_SELECTED" : ["#6e6a86"],
   
